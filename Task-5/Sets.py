@@ -16,7 +16,6 @@ print(fruits)
 # 7. Find union of two sets
 set1 = {1, 2, 3}
 set2 = {3, 4, 5}
-
 print("Union:", set1.union(set2))
 
 
